@@ -19,7 +19,7 @@
   "dependencies": {
     "@fastify/formbody": "7.4.0",
     "dotenv": "16.0.3",
-    "fastify": "4.14.1",
+    "fastify": "4.29.0",
     "md5": "2.3.0",
     "object-to-xml": "2.0.0"
   },
